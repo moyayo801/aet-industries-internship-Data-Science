@@ -1,0 +1,2168 @@
+[
+  {
+    "imei": "355234055264044",
+    "gov_number": "#001",
+    "route_id": "86F1FF592156451DB573B0BEE5A90612",
+    "route_short_name": "15А",
+    "route_long_name": "Тр. № 15А Гідропарк - Вокзал 2021",
+    "route_type": 11,
+    "time": "2024-02-23 11:25:04",
+    "longitude": 28.64051,
+    "latitude": 50.245343,
+    "satellites": 15,
+    "speed": 12,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "351513052254379",
+    "gov_number": "#002",
+    "route_id": "4E48258FB9E669EECC7B73146FBDB986",
+    "route_short_name": "1Б",
+    "route_long_name": "Тр. № 01 (Б) Залізничний вокзал - Космонавтів - Залізничний вокзал",
+    "route_type": 11,
+    "time": "2024-02-23 11:25:06",
+    "longitude": 28.697708,
+    "latitude": 50.267743,
+    "satellites": 9,
+    "speed": 0,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "355234055272997",
+    "gov_number": "#004",
+    "route_id": "9DF62F9F866155CCFDCDA6614F49AA25",
+    "route_short_name": "4",
+    "route_long_name": "Тр. № 04 Крошня - Залізничний вокзал 2022",
+    "route_type": 11,
+    "time": "2024-02-23 11:24:58",
+    "longitude": 28.657203,
+    "latitude": 50.29538,
+    "satellites": 18,
+    "speed": 35,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "351513052399497",
+    "gov_number": "#006",
+    "route_id": "8655E1C10336612E442DEE504F0F2B86",
+    "route_short_name": "2",
+    "route_long_name": "Тр. № 02 Богунія - Вокзал -Смолянка - Богунія",
+    "route_type": 11,
+    "time": "2024-02-23 11:25:02",
+    "longitude": 28.691613,
+    "latitude": 50.240613,
+    "satellites": 9,
+    "speed": 11,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173060731005",
+    "gov_number": "#007",
+    "route_id": "8655E1C10336612E442DEE504F0F2B86",
+    "route_short_name": "2",
+    "route_long_name": "Тр. № 02 Богунія - Вокзал -Смолянка - Богунія",
+    "route_type": 11,
+    "time": "2024-02-23 11:25:01",
+    "longitude": 28.648608,
+    "latitude": 50.267643,
+    "satellites": 9,
+    "speed": 0,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173060066915",
+    "gov_number": "#009",
+    "route_id": "A6B9FD16B15BE7A3BFA965ECBD892E59",
+    "route_short_name": "7А",
+    "route_long_name": "Тр. № 07А (н) м/н Маликова - вул Промислова",
+    "route_type": 11,
+    "time": "2024-02-23 11:24:56",
+    "longitude": 28.667638,
+    "latitude": 50.257218,
+    "satellites": 13,
+    "speed": 18,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "860157043680302",
+    "gov_number": "#011",
+    "route_id": "5C0350D3689DC11AB77B2B8002AA749A",
+    "route_short_name": "15",
+    "route_long_name": "Тр. № 15 Гідропарк - Вокзал 2023",
+    "route_type": 11,
+    "time": "2024-02-23 11:24:55",
+    "longitude": 28.62041,
+    "latitude": 50.243538,
+    "satellites": 18,
+    "speed": 7,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "860157043739942",
+    "gov_number": "#012",
+    "route_id": "9DF62F9F866155CCFDCDA6614F49AA25",
+    "route_short_name": "4",
+    "route_long_name": "Тр. № 04 Крошня - Залізничний вокзал 2022",
+    "route_type": 11,
+    "time": "2024-02-23 11:24:46",
+    "longitude": 28.677305,
+    "latitude": 50.261584,
+    "satellites": 15,
+    "speed": 31,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "860157043747648",
+    "gov_number": "#018",
+    "route_id": "969075AD26E53BB699B2C79F13C10C71",
+    "route_short_name": "3",
+    "route_long_name": "Тр. № 03 Богунія - Смолянка - Вокзал - Богунія",
+    "route_type": 11,
+    "time": "2024-02-23 11:24:45",
+    "longitude": 28.64846,
+    "latitude": 50.26797,
+    "satellites": 15,
+    "speed": 33,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173060476320",
+    "gov_number": "#020",
+    "route_id": "86F1FF592156451DB573B0BEE5A90612",
+    "route_short_name": "15А",
+    "route_long_name": "Тр. № 15А Гідропарк - Вокзал 2021",
+    "route_type": 11,
+    "time": "2024-02-23 11:24:49",
+    "longitude": 28.703,
+    "latitude": 50.259165,
+    "satellites": 18,
+    "speed": 0,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "860157043681128",
+    "gov_number": "#021",
+    "route_id": "969075AD26E53BB699B2C79F13C10C71",
+    "route_short_name": "3",
+    "route_long_name": "Тр. № 03 Богунія - Смолянка - Вокзал - Богунія",
+    "route_type": 11,
+    "time": "2024-02-23 11:25:06",
+    "longitude": 28.59682,
+    "latitude": 50.285696,
+    "satellites": 15,
+    "speed": 29,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "860906042894201",
+    "gov_number": "#022",
+    "route_id": "4E48258FB9E669EECC7B73146FBDB986",
+    "route_short_name": "1Б",
+    "route_long_name": "Тр. № 01 (Б) Залізничний вокзал - Космонавтів - Залізничний вокзал",
+    "route_type": 11,
+    "time": "2024-02-23 11:24:57",
+    "longitude": 28.672535,
+    "latitude": 50.250425,
+    "satellites": 12,
+    "speed": 28,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "860906043068615",
+    "gov_number": "#023",
+    "route_id": "5873709658FBADD44A752D3DF0DEE209",
+    "route_short_name": "1А",
+    "route_long_name": "Тр. № 01 (А) Залізничний вокзал - Залізничний вокзал",
+    "route_type": 11,
+    "time": "2024-02-23 11:24:48",
+    "longitude": 28.684031,
+    "latitude": 50.264546,
+    "satellites": 17,
+    "speed": 10,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "860157043739959",
+    "gov_number": "#024",
+    "route_id": "86F1FF592156451DB573B0BEE5A90612",
+    "route_short_name": "15А",
+    "route_long_name": "Тр. № 15А Гідропарк - Вокзал 2021",
+    "route_type": 11,
+    "time": "2024-02-23 11:24:57",
+    "longitude": 28.668921,
+    "latitude": 50.258033,
+    "satellites": 10,
+    "speed": 3,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "860906042893518",
+    "gov_number": "#026",
+    "route_id": "969075AD26E53BB699B2C79F13C10C71",
+    "route_short_name": "3",
+    "route_long_name": "Тр. № 03 Богунія - Смолянка - Вокзал - Богунія",
+    "route_type": 11,
+    "time": "2024-02-23 11:24:58",
+    "longitude": 28.703201,
+    "latitude": 50.258056,
+    "satellites": 14,
+    "speed": 27,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "862549047803906",
+    "gov_number": "#028",
+    "route_id": "8655E1C10336612E442DEE504F0F2B86",
+    "route_short_name": "2",
+    "route_long_name": "Тр. № 02 Богунія - Вокзал -Смолянка - Богунія",
+    "route_type": 11,
+    "time": "2024-02-23 11:24:59",
+    "longitude": 28.682193,
+    "latitude": 50.26373,
+    "satellites": 11,
+    "speed": 25,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "860906042982931",
+    "gov_number": "#029",
+    "route_id": "5873709658FBADD44A752D3DF0DEE209",
+    "route_short_name": "1А",
+    "route_long_name": "Тр. № 01 (А) Залізничний вокзал - Залізничний вокзал",
+    "route_type": 11,
+    "time": "2024-02-23 11:25:04",
+    "longitude": 28.663095,
+    "latitude": 50.25378,
+    "satellites": 8,
+    "speed": 23,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "860906042893575",
+    "gov_number": "#030",
+    "route_id": "8655E1C10336612E442DEE504F0F2B86",
+    "route_short_name": "2",
+    "route_long_name": "Тр. № 02 Богунія - Вокзал -Смолянка - Богунія",
+    "route_type": 11,
+    "time": "2024-02-23 11:25:07",
+    "longitude": 28.609413,
+    "latitude": 50.283445,
+    "satellites": 8,
+    "speed": 22,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "860906043025144",
+    "gov_number": "#031",
+    "route_id": "F902E7D017207E17B827DB2A20EA2AEF",
+    "route_short_name": "4А",
+    "route_long_name": "Тр. № 04А  Крошня - м-н Станишівський",
+    "route_type": 11,
+    "time": "2024-02-23 11:24:53",
+    "longitude": 28.656618,
+    "latitude": 50.293403,
+    "satellites": 16,
+    "speed": 7,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "860906043069415",
+    "gov_number": "#032",
+    "route_id": "A6B9FD16B15BE7A3BFA965ECBD892E59",
+    "route_short_name": "7А",
+    "route_long_name": "Тр. № 07А (н) м/н Маликова - вул Промислова",
+    "route_type": 11,
+    "time": "2024-02-23 11:24:56",
+    "longitude": 28.667495,
+    "latitude": 50.257338,
+    "satellites": 14,
+    "speed": 22,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "860906043068730",
+    "gov_number": "#033",
+    "route_id": "969075AD26E53BB699B2C79F13C10C71",
+    "route_short_name": "3",
+    "route_long_name": "Тр. № 03 Богунія - Смолянка - Вокзал - Богунія",
+    "route_type": 11,
+    "time": "2024-02-23 11:25:00",
+    "longitude": 28.690996,
+    "latitude": 50.240853,
+    "satellites": 9,
+    "speed": 36,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "860906042895109",
+    "gov_number": "#036",
+    "route_id": "5C0350D3689DC11AB77B2B8002AA749A",
+    "route_short_name": "15",
+    "route_long_name": "Тр. № 15 Гідропарк - Вокзал 2023",
+    "route_type": 11,
+    "time": "2024-02-23 11:24:53",
+    "longitude": 28.654811,
+    "latitude": 50.247124,
+    "satellites": 15,
+    "speed": 0,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "860157043744850",
+    "gov_number": "#037",
+    "route_id": "4E48258FB9E669EECC7B73146FBDB986",
+    "route_short_name": "1Б",
+    "route_long_name": "Тр. № 01 (Б) Залізничний вокзал - Космонавтів - Залізничний вокзал",
+    "route_type": 11,
+    "time": "2024-02-23 11:24:56",
+    "longitude": 28.668513,
+    "latitude": 50.25768,
+    "satellites": 13,
+    "speed": 0,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173060534318",
+    "gov_number": "#039",
+    "route_id": "8655E1C10336612E442DEE504F0F2B86",
+    "route_short_name": "2",
+    "route_long_name": "Тр. № 02 Богунія - Вокзал -Смолянка - Богунія",
+    "route_type": 11,
+    "time": "2024-02-23 11:24:52",
+    "longitude": 28.669335,
+    "latitude": 50.251853,
+    "satellites": 7,
+    "speed": 11,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "860906042893625",
+    "gov_number": "#041",
+    "route_id": "9DF62F9F866155CCFDCDA6614F49AA25",
+    "route_short_name": "4",
+    "route_long_name": "Тр. № 04 Крошня - Залізничний вокзал 2022",
+    "route_type": 11,
+    "time": "2024-02-23 11:24:43",
+    "longitude": 28.69376,
+    "latitude": 50.268785,
+    "satellites": 15,
+    "speed": 30,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "860906043068607",
+    "gov_number": "#042",
+    "route_id": "969075AD26E53BB699B2C79F13C10C71",
+    "route_short_name": "3",
+    "route_long_name": "Тр. № 03 Богунія - Смолянка - Вокзал - Богунія",
+    "route_type": 11,
+    "time": "2024-02-23 11:24:53",
+    "longitude": 28.65326,
+    "latitude": 50.261113,
+    "satellites": 17,
+    "speed": 0,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "862549047741189",
+    "gov_number": "#043",
+    "route_id": "8655E1C10336612E442DEE504F0F2B86",
+    "route_short_name": "2",
+    "route_long_name": "Тр. № 02 Богунія - Вокзал -Смолянка - Богунія",
+    "route_type": 11,
+    "time": "2024-02-23 11:24:57",
+    "longitude": 28.702941,
+    "latitude": 50.261433,
+    "satellites": 16,
+    "speed": 28,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "860906043025169",
+    "gov_number": "#044",
+    "route_id": "5C0350D3689DC11AB77B2B8002AA749A",
+    "route_short_name": "15",
+    "route_long_name": "Тр. № 15 Гідропарк - Вокзал 2023",
+    "route_type": 11,
+    "time": "2024-02-23 11:24:53",
+    "longitude": 28.703103,
+    "latitude": 50.26001,
+    "satellites": 14,
+    "speed": 32,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "860157043676961",
+    "gov_number": "#046",
+    "route_id": "9DF62F9F866155CCFDCDA6614F49AA25",
+    "route_short_name": "4",
+    "route_long_name": "Тр. № 04 Крошня - Залізничний вокзал 2022",
+    "route_type": 11,
+    "time": "2024-02-23 11:25:07",
+    "longitude": 28.696101,
+    "latitude": 50.268846,
+    "satellites": 5,
+    "speed": 6,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "860906042981792",
+    "gov_number": "#047",
+    "route_id": "86F1FF592156451DB573B0BEE5A90612",
+    "route_short_name": "15А",
+    "route_long_name": "Тр. № 15А Гідропарк - Вокзал 2021",
+    "route_type": 11,
+    "time": "2024-02-23 11:25:00",
+    "longitude": 28.690251,
+    "latitude": 50.241596,
+    "satellites": 16,
+    "speed": 20,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "351513052153399",
+    "gov_number": "#048",
+    "route_id": "5C0350D3689DC11AB77B2B8002AA749A",
+    "route_short_name": "15",
+    "route_long_name": "Тр. № 15 Гідропарк - Вокзал 2023",
+    "route_type": 11,
+    "time": "2024-02-23 11:25:06",
+    "longitude": 28.683013,
+    "latitude": 50.264105,
+    "satellites": 10,
+    "speed": 0,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "860906042895059",
+    "gov_number": "#050",
+    "route_id": "86F1FF592156451DB573B0BEE5A90612",
+    "route_short_name": "15А",
+    "route_long_name": "Тр. № 15А Гідропарк - Вокзал 2021",
+    "route_type": 11,
+    "time": "2024-02-23 11:24:54",
+    "longitude": 28.66747,
+    "latitude": 50.247925,
+    "satellites": 15,
+    "speed": 0,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "351513052162747",
+    "gov_number": "#84",
+    "route_id": "969075AD26E53BB699B2C79F13C10C71",
+    "route_short_name": "3",
+    "route_long_name": "Тр. № 03 Богунія - Смолянка - Вокзал - Богунія",
+    "route_type": 11,
+    "time": "2024-02-23 11:24:46",
+    "longitude": 28.687005,
+    "latitude": 50.265886,
+    "satellites": 8,
+    "speed": 9,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173060720727",
+    "gov_number": "#87",
+    "route_id": "5C0350D3689DC11AB77B2B8002AA749A",
+    "route_short_name": "15",
+    "route_long_name": "Тр. № 15 Гідропарк - Вокзал 2023",
+    "route_type": 11,
+    "time": "2024-02-23 11:23:44",
+    "longitude": 28.689836,
+    "latitude": 50.242041,
+    "satellites": 14,
+    "speed": 38,
+    "spec": [
+      "",
+      "rad",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "351513052259758",
+    "gov_number": "#6",
+    "route_id": "8655E1C10336612E442DEE504F0F2B86",
+    "route_short_name": "2",
+    "route_long_name": "Тр. № 02 Богунія - Вокзал -Смолянка - Богунія",
+    "route_type": 11,
+    "time": "2024-02-23 11:24:51",
+    "longitude": 28.603285,
+    "latitude": 50.284343,
+    "satellites": 8,
+    "speed": 29,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "351513052176226",
+    "gov_number": "#45",
+    "route_id": "4E48258FB9E669EECC7B73146FBDB986",
+    "route_short_name": "1Б",
+    "route_long_name": "Тр. № 01 (Б) Залізничний вокзал - Космонавтів - Залізничний вокзал",
+    "route_type": 11,
+    "time": "2024-02-23 11:25:04",
+    "longitude": 28.709501,
+    "latitude": 50.241745,
+    "satellites": 10,
+    "speed": 0,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "351513052256655",
+    "gov_number": "#70",
+    "route_id": "8655E1C10336612E442DEE504F0F2B86",
+    "route_short_name": "2",
+    "route_long_name": "Тр. № 02 Богунія - Вокзал -Смолянка - Богунія",
+    "route_type": 11,
+    "time": "2024-02-23 11:24:41",
+    "longitude": 28.659958,
+    "latitude": 50.256971,
+    "satellites": 10,
+    "speed": 5,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "351513052173801",
+    "gov_number": "#228",
+    "route_id": "969075AD26E53BB699B2C79F13C10C71",
+    "route_short_name": "3",
+    "route_long_name": "Тр. № 03 Богунія - Смолянка - Вокзал - Богунія",
+    "route_type": 11,
+    "time": "2024-02-23 11:25:00",
+    "longitude": 28.62432,
+    "latitude": 50.280478,
+    "satellites": 8,
+    "speed": 15,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173060560040",
+    "gov_number": "#240",
+    "route_id": "F902E7D017207E17B827DB2A20EA2AEF",
+    "route_short_name": "4А",
+    "route_long_name": "Тр. № 04А  Крошня - м-н Станишівський",
+    "route_type": 11,
+    "time": "2024-02-23 11:25:02",
+    "longitude": 28.70653,
+    "latitude": 50.232096,
+    "satellites": 13,
+    "speed": 29,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173060468236",
+    "gov_number": "#254",
+    "route_id": "969075AD26E53BB699B2C79F13C10C71",
+    "route_short_name": "3",
+    "route_long_name": "Тр. № 03 Богунія - Смолянка - Вокзал - Богунія",
+    "route_type": 11,
+    "time": "2024-02-23 11:24:53",
+    "longitude": 28.669193,
+    "latitude": 50.252036,
+    "satellites": 14,
+    "speed": 0,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "351513052089445",
+    "gov_number": "#12",
+    "route_id": "9DF62F9F866155CCFDCDA6614F49AA25",
+    "route_short_name": "4",
+    "route_long_name": "Тр. № 04 Крошня - Залізничний вокзал 2022",
+    "route_type": 11,
+    "time": "2024-02-23 11:25:04",
+    "longitude": 28.654848,
+    "latitude": 50.288181,
+    "satellites": 7,
+    "speed": 16,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "351513052153373",
+    "gov_number": "#23",
+    "route_id": "5873709658FBADD44A752D3DF0DEE209",
+    "route_short_name": "1А",
+    "route_long_name": "Тр. № 01 (А) Залізничний вокзал - Залізничний вокзал",
+    "route_type": 11,
+    "time": "2024-02-23 11:25:06",
+    "longitude": 28.687546,
+    "latitude": 50.243438,
+    "satellites": 7,
+    "speed": 9,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "860157043750196",
+    "gov_number": "#48",
+    "route_id": "9DF62F9F866155CCFDCDA6614F49AA25",
+    "route_short_name": "4",
+    "route_long_name": "Тр. № 04 Крошня - Залізничний вокзал 2022",
+    "route_type": 11,
+    "time": "2024-02-23 11:25:02",
+    "longitude": 28.670308,
+    "latitude": 50.25853,
+    "satellites": 15,
+    "speed": 0,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "352353083310844",
+    "gov_number": "AM 4071 EX",
+    "route_id": "F453F6645632CAD25D1A3D6DC3ACF08F",
+    "route_short_name": "30",
+    "route_long_name": ".№ 30 Мальованка - Северина Наливайка",
+    "route_type": 3,
+    "time": "2024-02-23 11:18:10",
+    "longitude": 28.663281,
+    "latitude": 50.258411,
+    "satellites": 15,
+    "speed": 11,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "355234055242610",
+    "gov_number": "АМ 0334 СА",
+    "route_id": "4A61287A4185BADCB9038EAF423128EE",
+    "route_short_name": "126",
+    "route_long_name": ".№ 126 Клітчин - вулиця Селецька",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:26",
+    "longitude": 28.700128,
+    "latitude": 50.27112,
+    "satellites": 6,
+    "speed": 41,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "355234055238600",
+    "gov_number": "АМ 0335 СА",
+    "route_id": "2408740B008F15F27D5A517298B98F14",
+    "route_short_name": "19А",
+    "route_long_name": ".№ 19А «Корбутівка - Біомедскло»",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:53",
+    "longitude": 28.626193,
+    "latitude": 50.244776,
+    "satellites": 13,
+    "speed": 48,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "355234055221143",
+    "gov_number": "АМ 0340 СА",
+    "route_id": "E3320983B650440B40D9D879AF327602",
+    "route_short_name": "25",
+    "route_long_name": ".№ 25 вул. Клосовського - вул. Саєнка",
+    "route_type": 3,
+    "time": "2024-02-23 11:15:47",
+    "longitude": 28.675453,
+    "latitude": 50.260715,
+    "satellites": 12,
+    "speed": 5,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173066357474",
+    "gov_number": "АМ 0342 СА",
+    "route_id": "E3320983B650440B40D9D879AF327602",
+    "route_short_name": "25",
+    "route_long_name": ".№ 25 вул. Клосовського - вул. Саєнка",
+    "route_type": 3,
+    "time": "2024-02-23 11:23:58",
+    "longitude": 28.667026,
+    "latitude": 50.25732,
+    "satellites": 11,
+    "speed": 34,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "351513052472799",
+    "gov_number": "АМ 0634 АА",
+    "route_id": "6D58BFC0CD13563CB29457980CFB466E",
+    "route_short_name": "14",
+    "route_long_name": ".№ 14 Соснова - Полісся 2021",
+    "route_type": 3,
+    "time": "2024-02-23 11:25:06",
+    "longitude": 28.703218,
+    "latitude": 50.27277,
+    "satellites": 9,
+    "speed": 6,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "351513050312211",
+    "gov_number": "АМ 0811 АА",
+    "route_id": "8E06976E23877620F054E65ECB9FFBB6",
+    "route_short_name": "26",
+    "route_long_name": ".№ 26 Богунія - Біомедскло",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:17",
+    "longitude": 28.632238,
+    "latitude": 50.27932,
+    "satellites": 9,
+    "speed": 0,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "864866053489463",
+    "gov_number": "АМ 1131 АА",
+    "route_id": "8E06976E23877620F054E65ECB9FFBB6",
+    "route_short_name": "26",
+    "route_long_name": ".№ 26 Богунія - Біомедскло",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:56",
+    "longitude": 28.702791,
+    "latitude": 50.246873,
+    "satellites": 16,
+    "speed": 0,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "862430052272776",
+    "gov_number": "АМ 1171 АА",
+    "route_id": "695E428F77F398C1E4AB4FF45CE5554F",
+    "route_short_name": "1",
+    "route_long_name": ".№ 01 Маликова - Космонавтів",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:56",
+    "longitude": 28.656303,
+    "latitude": 50.257568,
+    "satellites": 14,
+    "speed": 22,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "355234055354308",
+    "gov_number": "АМ 1176 АА",
+    "route_id": "2408740B008F15F27D5A517298B98F14",
+    "route_short_name": "19А",
+    "route_long_name": ".№ 19А «Корбутівка - Біомедскло»",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:53",
+    "longitude": 28.67602,
+    "latitude": 50.2611,
+    "satellites": 12,
+    "speed": 14,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173067943736",
+    "gov_number": "АМ 1449 ВН ",
+    "route_id": "F453F6645632CAD25D1A3D6DC3ACF08F",
+    "route_short_name": "30",
+    "route_long_name": ".№ 30 Мальованка - Северина Наливайка",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:46",
+    "longitude": 28.660945,
+    "latitude": 50.288621,
+    "satellites": 14,
+    "speed": 34,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173064314311",
+    "gov_number": "АМ 1479 АА",
+    "route_id": "8E06976E23877620F054E65ECB9FFBB6",
+    "route_short_name": "26",
+    "route_long_name": ".№ 26 Богунія - Біомедскло",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:17",
+    "longitude": 28.63191,
+    "latitude": 50.279186,
+    "satellites": 15,
+    "speed": 21,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "862430052278716",
+    "gov_number": "АМ 1569 АА",
+    "route_id": "695E428F77F398C1E4AB4FF45CE5554F",
+    "route_short_name": "1",
+    "route_long_name": ".№ 01 Маликова - Космонавтів",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:57",
+    "longitude": 28.648931,
+    "latitude": 50.265138,
+    "satellites": 15,
+    "speed": 37,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "864866053487079",
+    "gov_number": "АМ 1754 АА",
+    "route_id": "8E06976E23877620F054E65ECB9FFBB6",
+    "route_short_name": "26",
+    "route_long_name": ".№ 26 Богунія - Біомедскло",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:38",
+    "longitude": 28.703335,
+    "latitude": 50.2537,
+    "satellites": 17,
+    "speed": 27,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173060412291",
+    "gov_number": "АМ 1769 АА",
+    "route_id": "867328B6BD1A07759CB4A8D17E84E4EF",
+    "route_short_name": "18",
+    "route_long_name": ".№ 18 с.Лісове - ГК Восход 2021",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:30",
+    "longitude": 28.648723,
+    "latitude": 50.266736,
+    "satellites": 0,
+    "speed": 0,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "355234055200493",
+    "gov_number": "АМ 1788 АА",
+    "route_id": "F453F6645632CAD25D1A3D6DC3ACF08F",
+    "route_short_name": "30",
+    "route_long_name": ".№ 30 Мальованка - Северина Наливайка",
+    "route_type": 3,
+    "time": "2024-02-23 11:25:01",
+    "longitude": 28.627238,
+    "latitude": 50.258846,
+    "satellites": 13,
+    "speed": 0,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173064468745",
+    "gov_number": "АМ 1789 АА",
+    "route_id": "F453F6645632CAD25D1A3D6DC3ACF08F",
+    "route_short_name": "30",
+    "route_long_name": ".№ 30 Мальованка - Северина Наливайка",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:57",
+    "longitude": 28.65998,
+    "latitude": 50.255651,
+    "satellites": 14,
+    "speed": 28,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173066351865",
+    "gov_number": "АМ 1827 АА",
+    "route_id": "4A61287A4185BADCB9038EAF423128EE",
+    "route_short_name": "126",
+    "route_long_name": ".№ 126 Клітчин - вулиця Селецька",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:49",
+    "longitude": 28.676853,
+    "latitude": 50.26136,
+    "satellites": 9,
+    "speed": 10,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173060766860",
+    "gov_number": "АМ 1858 АА",
+    "route_id": "E3320983B650440B40D9D879AF327602",
+    "route_short_name": "25",
+    "route_long_name": ".№ 25 вул. Клосовського - вул. Саєнка",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:59",
+    "longitude": 28.62874,
+    "latitude": 50.276276,
+    "satellites": 14,
+    "speed": 0,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "354836080323859",
+    "gov_number": "АМ 1860 АА",
+    "route_id": "2C9126E0C1B34C67744F3146FDEAA9A0",
+    "route_short_name": "33",
+    "route_long_name": ".№ 33 Корабельна – Селецька",
+    "route_type": 3,
+    "time": "2024-02-23 11:23:44",
+    "longitude": 28.709005,
+    "latitude": 50.237635,
+    "satellites": 15,
+    "speed": 0,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "354836080300725",
+    "gov_number": "АМ 1861 АА",
+    "route_id": "2C9126E0C1B34C67744F3146FDEAA9A0",
+    "route_short_name": "33",
+    "route_long_name": ".№ 33 Корабельна – Селецька",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:49",
+    "longitude": 28.648531,
+    "latitude": 50.268735,
+    "satellites": 14,
+    "speed": 29,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "354836080383820",
+    "gov_number": "АМ 1862 АА",
+    "route_id": "2C9126E0C1B34C67744F3146FDEAA9A0",
+    "route_short_name": "33",
+    "route_long_name": ".№ 33 Корабельна – Селецька",
+    "route_type": 3,
+    "time": "2024-02-23 11:25:03",
+    "longitude": 28.591251,
+    "latitude": 50.27522,
+    "satellites": 9,
+    "speed": 17,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "354836080088197",
+    "gov_number": "АМ 1863 АА",
+    "route_id": "965F9528C4B14442A7270BECD2897A5F",
+    "route_short_name": "44",
+    "route_long_name": ".№ 44 Корбутівка - Малинська",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:59",
+    "longitude": 28.598783,
+    "latitude": 50.251006,
+    "satellites": 17,
+    "speed": 0,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "354836080626640",
+    "gov_number": "АМ 1865 АА",
+    "route_id": "2C9126E0C1B34C67744F3146FDEAA9A0",
+    "route_short_name": "33",
+    "route_long_name": ".№ 33 Корабельна – Селецька",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:55",
+    "longitude": 28.668713,
+    "latitude": 50.263635,
+    "satellites": 9,
+    "speed": 35,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "354836080299265",
+    "gov_number": "АМ 1866 АА",
+    "route_id": "2C9126E0C1B34C67744F3146FDEAA9A0",
+    "route_short_name": "33",
+    "route_long_name": ".№ 33 Корабельна – Селецька",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:53",
+    "longitude": 28.59076,
+    "latitude": 50.275441,
+    "satellites": 10,
+    "speed": 0,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "354836080620387",
+    "gov_number": "АМ 1867 АА",
+    "route_id": "965F9528C4B14442A7270BECD2897A5F",
+    "route_short_name": "44",
+    "route_long_name": ".№ 44 Корбутівка - Малинська",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:52",
+    "longitude": 28.702396,
+    "latitude": 50.242283,
+    "satellites": 10,
+    "speed": 0,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "354836080630519",
+    "gov_number": "АМ 1872 АА",
+    "route_id": "965F9528C4B14442A7270BECD2897A5F",
+    "route_short_name": "44",
+    "route_long_name": ".№ 44 Корбутівка - Малинська",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:18",
+    "longitude": 28.672668,
+    "latitude": 50.275825,
+    "satellites": 14,
+    "speed": 0,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "354836080303844",
+    "gov_number": "АМ 1874 АА",
+    "route_id": "2C9126E0C1B34C67744F3146FDEAA9A0",
+    "route_short_name": "33",
+    "route_long_name": ".№ 33 Корабельна – Селецька",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:02",
+    "longitude": 28.709853,
+    "latitude": 50.244283,
+    "satellites": 15,
+    "speed": 16,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173066634880",
+    "gov_number": "АМ 1882 АА",
+    "route_id": "AD8BB5049BD6B6C9F4105BB395EF07FF",
+    "route_short_name": "10",
+    "route_long_name": ".№ 10 Крошня - м-н Станішівський 2021",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:52",
+    "longitude": 28.655135,
+    "latitude": 50.289106,
+    "satellites": 14,
+    "speed": 0,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "352353086163596",
+    "gov_number": "АМ 1896 АА",
+    "route_id": "0E157614ED54FC17B917193EF51CA845",
+    "route_short_name": "4",
+    "route_long_name": ".№ 04 Крошня - Обласна лікарня 2021",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:54",
+    "longitude": 28.654063,
+    "latitude": 50.306108,
+    "satellites": 14,
+    "speed": 0,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "355234055805093",
+    "gov_number": "АМ 1902 АА",
+    "route_id": "AD8BB5049BD6B6C9F4105BB395EF07FF",
+    "route_short_name": "10",
+    "route_long_name": ".№ 10 Крошня - м-н Станішівський 2021",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:54",
+    "longitude": 28.702085,
+    "latitude": 50.240023,
+    "satellites": 13,
+    "speed": 39,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173060065362",
+    "gov_number": "АМ 1905 АА",
+    "route_id": "AD8BB5049BD6B6C9F4105BB395EF07FF",
+    "route_short_name": "10",
+    "route_long_name": ".№ 10 Крошня - м-н Станішівський 2021",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:59",
+    "longitude": 28.702981,
+    "latitude": 50.247698,
+    "satellites": 16,
+    "speed": 0,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173060783709",
+    "gov_number": "АМ 1910 АА",
+    "route_id": "454D7EF5BE2A68711346F5E54DB87731",
+    "route_short_name": "110",
+    "route_long_name": ".№ 110 Сонячне - Станишівка",
+    "route_type": 3,
+    "time": "2024-02-23 11:25:01",
+    "longitude": 28.674631,
+    "latitude": 50.233795,
+    "satellites": 14,
+    "speed": 47,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "862430052272818",
+    "gov_number": "АМ 1912 АА",
+    "route_id": "454D7EF5BE2A68711346F5E54DB87731",
+    "route_short_name": "110",
+    "route_long_name": ".№ 110 Сонячне - Станишівка",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:43",
+    "longitude": 28.684561,
+    "latitude": 50.229573,
+    "satellites": 18,
+    "speed": 41,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "866039047132122",
+    "gov_number": "АМ 1914 АА ",
+    "route_id": "083FDBECECD133BCBD6702E1BD4B647C",
+    "route_short_name": "19",
+    "route_long_name": ".№ 19  с.Лісове - Богунія - Біомедскло 2021",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:12",
+    "longitude": 28.718701,
+    "latitude": 50.261885,
+    "satellites": 15,
+    "speed": 0,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "357804047765213",
+    "gov_number": "АМ 1916 АА ",
+    "route_id": "AD8BB5049BD6B6C9F4105BB395EF07FF",
+    "route_short_name": "10",
+    "route_long_name": ".№ 10 Крошня - м-н Станішівський 2021",
+    "route_type": 3,
+    "time": "2024-02-23 11:25:04",
+    "longitude": 28.6715,
+    "latitude": 50.258966,
+    "satellites": 7,
+    "speed": 0,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "866039047126660",
+    "gov_number": "АМ 1922 АА",
+    "route_id": "454D7EF5BE2A68711346F5E54DB87731",
+    "route_short_name": "110",
+    "route_long_name": ".№ 110 Сонячне - Станишівка",
+    "route_type": 3,
+    "time": "2024-02-23 11:25:01",
+    "longitude": 28.659363,
+    "latitude": 50.297718,
+    "satellites": 11,
+    "speed": 17,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "862430052273261",
+    "gov_number": "АМ 1924 АА",
+    "route_id": "454D7EF5BE2A68711346F5E54DB87731",
+    "route_short_name": "110",
+    "route_long_name": ".№ 110 Сонячне - Станишівка",
+    "route_type": 3,
+    "time": "2024-02-23 11:25:00",
+    "longitude": 28.663053,
+    "latitude": 50.258521,
+    "satellites": 14,
+    "speed": 0,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "866039047156592",
+    "gov_number": "АМ 1925 АА",
+    "route_id": "AD8BB5049BD6B6C9F4105BB395EF07FF",
+    "route_short_name": "10",
+    "route_long_name": ".№ 10 Крошня - м-н Станішівський 2021",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:54",
+    "longitude": 28.658013,
+    "latitude": 50.274925,
+    "satellites": 16,
+    "speed": 13,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173064396219",
+    "gov_number": "АМ 1948 АА",
+    "route_id": "71FAD07CD0030449151D988D5DBF1548",
+    "route_short_name": "58",
+    "route_long_name": ".№ 58 Мальованка - Діагностичний центр",
+    "route_type": 3,
+    "time": "2024-02-23 11:25:01",
+    "longitude": 28.672753,
+    "latitude": 50.249728,
+    "satellites": 12,
+    "speed": 28,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "351513050474094",
+    "gov_number": "АМ 1952 АА",
+    "route_id": "0E157614ED54FC17B917193EF51CA845",
+    "route_short_name": "4",
+    "route_long_name": ".№ 04 Крошня - Обласна лікарня 2021",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:57",
+    "longitude": 28.676061,
+    "latitude": 50.236295,
+    "satellites": 9,
+    "speed": 56,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "351513050333514",
+    "gov_number": "АМ 1957 АА",
+    "route_id": "12356DBD3B1790D5B3965DAC376EBCF3",
+    "route_short_name": "8",
+    "route_long_name": ".№ 08 Авторинок - Параджанова",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:33",
+    "longitude": 28.634745,
+    "latitude": 50.291545,
+    "satellites": 10,
+    "speed": 12,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "351513050333605",
+    "gov_number": "АМ 1962 АА",
+    "route_id": "71FAD07CD0030449151D988D5DBF1548",
+    "route_short_name": "58",
+    "route_long_name": ".№ 58 Мальованка - Діагностичний центр",
+    "route_type": 3,
+    "time": "2024-02-23 11:25:00",
+    "longitude": 28.69847,
+    "latitude": 50.267233,
+    "satellites": 8,
+    "speed": 37,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173066451129",
+    "gov_number": "АМ 1963 АА",
+    "route_id": "083FDBECECD133BCBD6702E1BD4B647C",
+    "route_short_name": "19",
+    "route_long_name": ".№ 19  с.Лісове - Богунія - Біомедскло 2021",
+    "route_type": 3,
+    "time": "2024-02-23 11:25:06",
+    "longitude": 28.626233,
+    "latitude": 50.280226,
+    "satellites": 17,
+    "speed": 49,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "866039047156576",
+    "gov_number": "АМ 1964 АА",
+    "route_id": "71FAD07CD0030449151D988D5DBF1548",
+    "route_short_name": "58",
+    "route_long_name": ".№ 58 Мальованка - Діагностичний центр",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:58",
+    "longitude": 28.702935,
+    "latitude": 50.259158,
+    "satellites": 15,
+    "speed": 6,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173060565221",
+    "gov_number": "АМ 1968 АА",
+    "route_id": "71FAD07CD0030449151D988D5DBF1548",
+    "route_short_name": "58",
+    "route_long_name": ".№ 58 Мальованка - Діагностичний центр",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:50",
+    "longitude": 28.632826,
+    "latitude": 50.254606,
+    "satellites": 8,
+    "speed": 40,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173060727870",
+    "gov_number": "АМ 2955 СІ",
+    "route_id": "867328B6BD1A07759CB4A8D17E84E4EF",
+    "route_short_name": "18",
+    "route_long_name": ".№ 18 с.Лісове - ГК Восход 2021",
+    "route_type": 3,
+    "time": "2024-02-23 11:14:45",
+    "longitude": 28.605003,
+    "latitude": 50.305568,
+    "satellites": 17,
+    "speed": 0,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173066351659",
+    "gov_number": "АМ 2956 СІ",
+    "route_id": "867328B6BD1A07759CB4A8D17E84E4EF",
+    "route_short_name": "18",
+    "route_long_name": ".№ 18 с.Лісове - ГК Восход 2021",
+    "route_type": 3,
+    "time": "2024-02-23 11:19:26",
+    "longitude": 28.656148,
+    "latitude": 50.257821,
+    "satellites": 12,
+    "speed": 0,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173060728993",
+    "gov_number": "АМ 2957 СІ",
+    "route_id": "12356DBD3B1790D5B3965DAC376EBCF3",
+    "route_short_name": "8",
+    "route_long_name": ".№ 08 Авторинок - Параджанова",
+    "route_type": 3,
+    "time": "2024-02-23 11:22:53",
+    "longitude": 28.717216,
+    "latitude": 50.251375,
+    "satellites": 19,
+    "speed": 40,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "351513050340907",
+    "gov_number": "АМ 2968 СІ ",
+    "route_id": "12356DBD3B1790D5B3965DAC376EBCF3",
+    "route_short_name": "8",
+    "route_long_name": ".№ 08 Авторинок - Параджанова",
+    "route_type": 3,
+    "time": "2024-02-23 11:25:06",
+    "longitude": 28.692033,
+    "latitude": 50.26775,
+    "satellites": 9,
+    "speed": 5,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173064415977",
+    "gov_number": "АМ 5634 НН",
+    "route_id": "695417970651E09AD7F597F70A1CDFE9",
+    "route_short_name": "23",
+    "route_long_name": ".№ 23 Ялинка - Слобода-Селець 2021",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:53",
+    "longitude": 28.726883,
+    "latitude": 50.22768,
+    "satellites": 9,
+    "speed": 16,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "351513052256572",
+    "gov_number": "АМ 5635 НН",
+    "route_id": "695417970651E09AD7F597F70A1CDFE9",
+    "route_short_name": "23",
+    "route_long_name": ".№ 23 Ялинка - Слобода-Селець 2021",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:46",
+    "longitude": 28.68621,
+    "latitude": 50.244225,
+    "satellites": 9,
+    "speed": 0,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "860157043680369",
+    "gov_number": "АМ 5639 НН",
+    "route_id": "695417970651E09AD7F597F70A1CDFE9",
+    "route_short_name": "23",
+    "route_long_name": ".№ 23 Ялинка - Слобода-Селець 2021",
+    "route_type": 3,
+    "time": "2024-02-23 11:25:00",
+    "longitude": 28.659833,
+    "latitude": 50.256921,
+    "satellites": 12,
+    "speed": 5,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "351513052193882",
+    "gov_number": "АМ 5640 НН",
+    "route_id": "695417970651E09AD7F597F70A1CDFE9",
+    "route_short_name": "23",
+    "route_long_name": ".№ 23 Ялинка - Слобода-Селець 2021",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:33",
+    "longitude": 28.630111,
+    "latitude": 50.279483,
+    "satellites": 8,
+    "speed": 41,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "862549047810125",
+    "gov_number": "АМ 5641 НН",
+    "route_id": "695417970651E09AD7F597F70A1CDFE9",
+    "route_short_name": "23",
+    "route_long_name": ".№ 23 Ялинка - Слобода-Селець 2021",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:55",
+    "longitude": 28.594661,
+    "latitude": 50.286031,
+    "satellites": 8,
+    "speed": 0,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "351513052161319",
+    "gov_number": "АМ 5646 НН",
+    "route_id": "695417970651E09AD7F597F70A1CDFE9",
+    "route_short_name": "23",
+    "route_long_name": ".№ 23 Ялинка - Слобода-Селець 2021",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:58",
+    "longitude": 28.682186,
+    "latitude": 50.246451,
+    "satellites": 6,
+    "speed": 17,
+    "spec": [
+      "dis",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "355234055532879",
+    "gov_number": "АМ 5745 СР",
+    "route_id": "E3320983B650440B40D9D879AF327602",
+    "route_short_name": "25",
+    "route_long_name": ".№ 25 вул. Клосовського - вул. Саєнка",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:51",
+    "longitude": 28.732145,
+    "latitude": 50.285261,
+    "satellites": 9,
+    "speed": 5,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173060781950",
+    "gov_number": "АМ 6162 ЕК",
+    "route_id": "AD8BB5049BD6B6C9F4105BB395EF07FF",
+    "route_short_name": "10",
+    "route_long_name": ".№ 10 Крошня - м-н Станішівський 2021",
+    "route_type": 3,
+    "time": "2024-02-23 11:25:01",
+    "longitude": 28.703311,
+    "latitude": 50.249083,
+    "satellites": 15,
+    "speed": 21,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "864866053486022",
+    "gov_number": "АМ 7443 АА ",
+    "route_id": "8E06976E23877620F054E65ECB9FFBB6",
+    "route_short_name": "26",
+    "route_long_name": ".№ 26 Богунія - Біомедскло",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:50",
+    "longitude": 28.685796,
+    "latitude": 50.265278,
+    "satellites": 12,
+    "speed": 16,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173060784996",
+    "gov_number": "АМ 7715 СА",
+    "route_id": "695E428F77F398C1E4AB4FF45CE5554F",
+    "route_short_name": "1",
+    "route_long_name": ".№ 01 Маликова - Космонавтів",
+    "route_type": 3,
+    "time": "2024-02-23 11:25:00",
+    "longitude": 28.630898,
+    "latitude": 50.279456,
+    "satellites": 14,
+    "speed": 0,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "351513052494389",
+    "gov_number": "АМ 7790 КМ",
+    "route_id": "6D58BFC0CD13563CB29457980CFB466E",
+    "route_short_name": "14",
+    "route_long_name": ".№ 14 Соснова - Полісся 2021",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:59",
+    "longitude": 28.61621,
+    "latitude": 50.269748,
+    "satellites": 8,
+    "speed": 46,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "351513050476586",
+    "gov_number": "АМ 8172 СК",
+    "route_id": "E3320983B650440B40D9D879AF327602",
+    "route_short_name": "25",
+    "route_long_name": ".№ 25 вул. Клосовського - вул. Саєнка",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:50",
+    "longitude": 28.74227,
+    "latitude": 50.286936,
+    "satellites": 10,
+    "speed": 0,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173060454822",
+    "gov_number": "АМ 8445 СЕ",
+    "route_id": "8E06976E23877620F054E65ECB9FFBB6",
+    "route_short_name": "26",
+    "route_long_name": ".№ 26 Богунія - Біомедскло",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:49",
+    "longitude": 28.680328,
+    "latitude": 50.266388,
+    "satellites": 10,
+    "speed": 26,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173066974690",
+    "gov_number": "АМ 9704 СТ",
+    "route_id": "F453F6645632CAD25D1A3D6DC3ACF08F",
+    "route_short_name": "30",
+    "route_long_name": ".№ 30 Мальованка - Северина Наливайка",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:58",
+    "longitude": 28.655793,
+    "latitude": 50.281505,
+    "satellites": 15,
+    "speed": 0,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "357804048683613",
+    "gov_number": "АМ 9723 ВК",
+    "route_id": "8E06976E23877620F054E65ECB9FFBB6",
+    "route_short_name": "26",
+    "route_long_name": ".№ 26 Богунія - Біомедскло",
+    "route_type": 3,
+    "time": "2024-02-23 11:24:57",
+    "longitude": 28.728531,
+    "latitude": 50.242236,
+    "satellites": 6,
+    "speed": 3,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173060066949",
+    "gov_number": "T-153",
+    "route_id": "D9EF474E80BC316C60E5FBD62DAFA85C",
+    "route_short_name": "Т",
+    "route_long_name": "Трамвай Площа Перемоги - Льонокомбінат",
+    "route_type": 0,
+    "time": "2024-02-23 11:24:56",
+    "longitude": 28.683026,
+    "latitude": 50.257768,
+    "satellites": 16,
+    "speed": 0,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173067411841",
+    "gov_number": "Т-169",
+    "route_id": "D9EF474E80BC316C60E5FBD62DAFA85C",
+    "route_short_name": "Т",
+    "route_long_name": "Трамвай Площа Перемоги - Льонокомбінат",
+    "route_type": 0,
+    "time": "2024-02-23 11:24:49",
+    "longitude": 28.659353,
+    "latitude": 50.257545,
+    "satellites": 16,
+    "speed": 5,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "860157043680443",
+    "gov_number": "Т-21",
+    "route_id": "D9EF474E80BC316C60E5FBD62DAFA85C",
+    "route_short_name": "Т",
+    "route_long_name": "Трамвай Площа Перемоги - Льонокомбінат",
+    "route_type": 0,
+    "time": "2024-02-23 11:24:53",
+    "longitude": 28.672345,
+    "latitude": 50.254231,
+    "satellites": 17,
+    "speed": 5,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "355234055207191",
+    "gov_number": "Т-24",
+    "route_id": "D9EF474E80BC316C60E5FBD62DAFA85C",
+    "route_short_name": "Т",
+    "route_long_name": "Трамвай Площа Перемоги - Льонокомбінат",
+    "route_type": 0,
+    "time": "2024-02-23 11:24:43",
+    "longitude": 28.703658,
+    "latitude": 50.25274,
+    "satellites": 16,
+    "speed": 9,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173060067103",
+    "gov_number": "Т-26",
+    "route_id": "D9EF474E80BC316C60E5FBD62DAFA85C",
+    "route_short_name": "Т",
+    "route_long_name": "Трамвай Площа Перемоги - Льонокомбінат",
+    "route_type": 0,
+    "time": "2024-02-23 11:24:59",
+    "longitude": 28.690725,
+    "latitude": 50.25321,
+    "satellites": 16,
+    "speed": 15,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "imei": "353173067291227",
+    "gov_number": "Т-29",
+    "route_id": "D9EF474E80BC316C60E5FBD62DAFA85C",
+    "route_short_name": "Т",
+    "route_long_name": "Трамвай Площа Перемоги - Льонокомбінат",
+    "route_type": 0,
+    "time": "2024-02-23 11:24:56",
+    "longitude": 28.7274,
+    "latitude": 50.249041,
+    "satellites": 17,
+    "speed": 35,
+    "spec": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+]

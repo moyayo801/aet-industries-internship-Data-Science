@@ -1,0 +1,2553 @@
+[{
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-08-25T09:57:23.267Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-08-25T09:57:23.267Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 33.84000015258789
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-08-25T09:57:23.267Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/362.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:9542",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8309870698753534, 43.47219984734856],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-08-25T09:57:07.690Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-08-25T09:57:07.690Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 4.067999839782715
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-08-25T09:57:07.690Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/81.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:92",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.7966459924333242, 43.47799070808139],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-08-25T09:57:28.890Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-08-25T09:57:28.890Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 28.440000534057617
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-08-25T09:57:28.890Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/332.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:3618",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.859188436267853, 43.44133641635305],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-08-25T09:57:34.193Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-08-25T09:57:34.193Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 31.895999908447266
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-08-25T09:57:34.193Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/113.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:100",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.7854246931545563, 43.47453859493532],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-08-25T09:57:34.367Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-08-25T09:57:34.367Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 0.0
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-08-25T09:57:34.367Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/73.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:90",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8130268773073333, 43.45748977554595],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-08-25T09:56:50.110Z",
+        "type": "Property",
+        "value": "terminated"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-08-25T09:56:50.110Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 10.979999542236328
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-08-25T09:56:50.110Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/173.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:119",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8358127871794596, 43.460107951973136],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-08-25T09:57:31.540Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-08-25T09:57:31.540Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 9.791999816894531
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-08-25T09:57:31.540Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/168.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:116",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8083890489507457, 43.46147552230391],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-08-25T09:57:18.457Z",
+        "type": "Property",
+        "value": "terminated"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-08-25T09:57:18.457Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 13.104000091552734
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-08-25T09:57:18.457Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/148.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:107",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.7855298249000273, 43.47463692049622],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-08-25T09:57:18.767Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-08-25T09:57:18.767Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 31.715999603271484
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-08-25T09:57:18.767Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/237.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:133",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.806816758324834, 43.47004070173687],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-08-25T09:57:30.350Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-08-25T09:57:30.350Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 2.2679998874664307
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-08-25T09:57:30.350Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/272.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:143",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.7839979712001783, 43.47335981198328],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-08-25T09:57:27.507Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-08-25T09:57:27.507Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 12.491999626159668
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-08-25T09:57:27.507Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/108.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:98",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8265965497929653, 43.45958511279806],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-08-25T09:56:49.760Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-08-25T09:56:49.760Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 23.219999313354492
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-08-25T09:56:49.760Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/58.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:86",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8352197726676787, 43.44353083301066],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:25.897Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:25.897Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 45.43199920654297
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:25.897Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/82.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:91",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.833998447687185, 43.44470129867433],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:38.533Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:38.533Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 37.512001037597656
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:38.533Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/77.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:89",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.7914016786213334, 43.47781099338023],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:14.100Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:14.100Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 0.0
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:14.100Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/72.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:88",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.791407059957367, 43.47780645402388],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:29:30.523Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:29:30.523Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 39.779998779296875
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:29:30.523Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/67.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:85",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.793996347694872, 43.474146285033946],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:36.230Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:36.230Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 22.68000030517578
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:36.230Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/63.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:84",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.812468824910915, 43.47773089171158],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:18.377Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:18.377Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 27.68400001525879
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:18.377Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/58.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:83",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8527085757428985, 43.46031645783358],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:19.927Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:19.927Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 14.076000213623047
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:19.927Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/53.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:81",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.791594184255318, 43.469192557964064],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:20.083Z",
+        "type": "Property",
+        "value": "terminated"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:20.083Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 7.668000221252441
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:20.083Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/48.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:80",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.7858312086612464, 43.474040568338594],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:35.073Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:35.073Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 2.4839999675750732
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:35.073Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/132.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:104",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.797623276103491, 43.46250101929099],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:26.210Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:26.210Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 43.7760009765625
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:26.210Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/127.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:103",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.7861324520464166, 43.46379161037195],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:34.477Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:34.477Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 0.0
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:34.477Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/122.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:102",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8108317669111083, 43.46177789360062],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:25.097Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:25.097Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 13.248000144958496
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:25.097Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/117.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:101",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8237420325519085, 43.46338750332014],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:33.570Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:33.570Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 15.87600040435791
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:33.570Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/112.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:99",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.7852222995229416, 43.46397794500756],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:35.340Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:35.340Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 0.0
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:35.340Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/107.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:97",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8116682818435703, 43.47634090922517],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:19.850Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:19.850Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 1.1519999504089355
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:19.850Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/102.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:96",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8179482037511026, 43.46532896958776],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:24.613Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:24.613Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 10.871999740600586
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:24.613Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/97.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:95",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8040043071006395, 43.47658860414642],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:22.793Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:22.793Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 19.187999725341797
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:22.793Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/177.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:121",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.835312308317891, 43.4614667538537],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:33.460Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:33.460Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 30.312000274658203
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:33.460Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/172.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:120",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.790490465906822, 43.463414924784914],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:34.320Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:34.320Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 24.65999984741211
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:34.320Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/167.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:118",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8197226429366316, 43.46748630799459],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:33.037Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:33.037Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 12.276000022888184
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:33.037Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/162.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:117",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8522595159833926, 43.45844240611194],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:38.863Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:38.863Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 10.907999992370605
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:38.863Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/157.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:115",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.7936428405249973, 43.47177160493966],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:14.633Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:14.633Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 24.76799964904785
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:14.633Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/152.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:110",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8254752899869464, 43.4524662941438],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:38.043Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:38.043Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 36.14400100708008
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:38.043Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/147.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:108",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.87787738152458, 43.440154570547016],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:33.347Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:33.347Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 2.9519999027252197
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:33.347Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/142.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:106",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8141266332522794, 43.46170497703127],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:18.733Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:18.733Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 0.4320000112056732
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:18.733Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/137.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:105",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.796782145406508, 43.46402410391724],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:26.367Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:26.367Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 17.172000885009766
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:26.367Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/227.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:131",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.7868835967695818, 43.46366038775328],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:26.527Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:26.527Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 0.0
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:26.527Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/222.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:130",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.877052414331943, 43.45129924058006],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:26.290Z",
+        "type": "Property",
+        "value": "terminated"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:26.290Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 16.992000579833984
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:26.290Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/217.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:129",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.796549402017161, 43.48334892507052],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:26.467Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:26.467Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 25.70400047302246
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:26.467Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/212.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:128",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.7965228190994567, 43.48252972124679],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:26.210Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:26.210Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 26.459999084472656
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:26.210Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/207.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:127",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.7963588138482014, 43.46317164179706],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:14.053Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:14.053Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 21.45599937438965
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:14.053Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/202.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:126",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.780297797526174, 43.47144467653546],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:18.813Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:18.813Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 31.75200080871582
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:18.813Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/194.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:125",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8074380198152107, 43.46153626226891],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:35.667Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:35.667Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 4.644000053405762
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:35.667Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/192.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:124",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.850264409058909, 43.45658435211207],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:28.193Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:28.193Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 21.959999084472656
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:28.193Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/187.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:123",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.853490285282702, 43.44516987839555],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:12.863Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:12.863Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 3.2039999961853027
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:12.863Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/182.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:122",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.7824105277183313, 43.472330680703806],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:26.130Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:26.130Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 1.6920000314712524
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:26.130Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/281.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:145",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8430155273771835, 43.459830009561614],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:37.153Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:37.153Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 0.0
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:37.153Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/276.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:144",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8308637172814555, 43.457424691775515],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:36.950Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:36.950Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 0.0
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:36.950Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/271.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:142",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.7914016786213334, 43.47781099338023],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:36.870Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:36.870Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 2.4119999408721924
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:36.870Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/266.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:141",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.809390357540883, 43.46147744895792],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:22.557Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:22.557Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 18.107999801635742
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:22.557Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/261.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:140",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8086017282527758, 43.46277964379691],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:22.887Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:22.887Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 3.815999984741211
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:22.887Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/256.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:138",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.807962001210112, 43.46440493655696],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:33.347Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:33.347Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 1.871999979019165
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:33.347Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/251.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:137",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8499050774102352, 43.45479066190854],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:33.270Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:33.270Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 32.11199951171875
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:33.270Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/246.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:136",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8416282894007567, 43.45686429777953],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T07:39:14.537Z",
+        "type": "Property",
+        "value": "terminated"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T07:39:14.537Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 24.84000015258789
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T07:39:14.537Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/241.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:135",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8633797650797126, 43.44629776890856],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:21.460Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:21.460Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 11.34000015258789
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:21.460Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/237.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:134",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.789676272587861, 43.463573619086176],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:32:46.997Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:32:46.997Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 28.47599983215332
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:32:46.997Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/229.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:132",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.866186072298529, 43.447690239587075],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:28.613Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:28.613Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 22.823999404907227
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:28.613Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/334.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:3463",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.795553478302623, 43.46303317427876],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:35.700Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:35.700Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 5.4720001220703125
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:35.700Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/329.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:3446",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8179313060879543, 43.45559543634892],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:38.707Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:38.707Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 19.440000534057617
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:38.707Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/321.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:154",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.796661433010193, 43.46352970766368],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:26.210Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:26.210Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 25.308000564575195
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:26.210Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/319.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:153",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.841921477960212, 43.440064580705446],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:26.510Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:26.510Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 19.799999237060547
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:26.510Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/314.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:152",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.841341616366157, 43.4588158381429],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T08:30:58.417Z",
+        "type": "Property",
+        "value": "terminated"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T08:31:24.627Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 34.992000579833984
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T08:31:24.627Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/309.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:151",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.867780399439042, 43.448965777799174],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:33.347Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:33.347Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 17.892000198364258
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:33.347Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/305.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:150",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.855596821337315, 43.45781871587146],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:33.270Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:33.270Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 0.0
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:33.270Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/300.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:149",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8673013820314597, 43.46449283060646],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T08:44:55.443Z",
+        "type": "Property",
+        "value": "terminated"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T08:44:55.443Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 0.0
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T08:44:55.443Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/295.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:148",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.791394325310642, 43.47780654209194],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:37.887Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:37.887Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 0.0
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:37.887Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/291.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:147",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.831493762959375, 43.456785311790156],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:32:56.357Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:32:56.357Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 0.0
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:32:56.357Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/284.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:146",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.841244152661403, 43.4577765573714],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:28.457Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:28.457Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 9.899999618530273
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:28.457Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/374.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:9637",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.84988380702559, 43.44708762762816],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:33.113Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:33.113Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 29.520000457763672
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:33.113Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/369.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:9480",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.861175988311533, 43.45639020189529],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:27.300Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:27.300Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 33.948001861572266
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:27.300Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/364.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:9262",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8309333147154905, 43.47473944565875],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:27.223Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:27.223Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 25.45199966430664
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:27.223Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/359.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:9261",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8064822319192277, 43.46159252570781],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:35.607Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:35.607Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 28.007999420166016
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:35.607Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/354.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:4877",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8030012462366876, 43.47600586659458],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:35.607Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:35.607Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 39.45600128173828
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:35.607Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/349.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:4876",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8596444533473497, 43.444421475802294],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:30.867Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:30.867Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 36.97200012207031
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:30.867Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/344.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:4610",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8528492396348666, 43.46557842115557],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:32:41.623Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:32:41.623Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 24.76799964904785
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:32:41.623Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/336.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:3619",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8305848924863817, 43.461077961762896],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:19.517Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:19.517Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 8.748000144958496
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:19.517Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/43.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:79",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.806503031223022, 43.46373540331269],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T07:07:35.257Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T07:07:35.257Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 5.21999979019165
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T07:07:35.257Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/33.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:77",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.830240418104774, 43.45763631466447],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:21.070Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:21.070Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 6.515999794006348
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:21.070Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/19.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:74",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.827627653684555, 43.45479186991613],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:17.717Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:17.717Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 5.796000003814697
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:17.717Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/38.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:78",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8277186379868686, 43.45836592295365],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:21.397Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:21.397Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 0.0
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:21.397Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/29.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:76",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.782456723334862, 43.46392485289209],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:17.030Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:17.030Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 19.6200008392334
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:17.030Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/24.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:75",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.797624457365824, 43.465413902881934],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:16.360Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:16.360Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 0.0
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:16.360Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/14.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:73",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.782203499774389, 43.472057465059564],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:16.470Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:16.470Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 0.0
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:16.470Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/9.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:72",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.7821359220701742, 43.47200390118995],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:17.547Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:17.547Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 30.20400047302246
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:17.547Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/4.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:71",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.7784769120484394, 43.46785986141759],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:33.443Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:33.443Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 14.291999816894531
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:33.443Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/92.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:94",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.791048214152338, 43.47788096937762],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}, {
+    "https://smartdatamodels.org/dataModel.Transportation/currentStatus": {
+        "observedAt": "2023-09-13T09:33:19.850Z",
+        "type": "Property",
+        "value": "servicing"
+    },
+    "https://smartdatamodels.org/dataModel.Transportation/speed": {
+        "observedAt": "2023-09-13T09:33:19.850Z",
+        "type": "Property",
+        "unitCode": "KMH",
+        "value": 5.507999897003174
+    },
+    "https://smartdatamodels.org/dateModified": {
+        "type": "Property",
+        "value": "2023-09-13T09:33:19.850Z"
+    },
+    "https://smartdatamodels.org/source": {
+        "type": "Property",
+        "value": "http://datos.santander.es/api/datos/control_flotas_posiciones/87.json"
+    },
+    "id": "urn:ngsi-ld:FleetVehicleStatus:santander:93",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "coordinates": [-3.8271742437462124, 43.45849141744035],
+            "type": "Point"
+        }
+    },
+    "type": "https://smartdatamodels.org/dataModel.Transportation/FleetVehicleStatus"
+}]
